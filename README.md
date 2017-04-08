@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/babel-preset-es2015.png?downloads=true)](https://www.npmjs.com/package/babel-preset-es2015)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-preset-es2015/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-babel-preset-es2015%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-preset-es2015/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-preset-es2015/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-babel-preset-es2015%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-preset-es2015/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-babel-preset-es2015/build/screenCapture.npmPackageListing.svg)
 
